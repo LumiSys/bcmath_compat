@@ -406,6 +406,7 @@ abstract class BCMath
         }
         foreach ($numbers as $i => $arg) {
             switch (true) {
+                case is_null($arg):
                 case is_bool($arg):
                 case is_numeric($arg):
                 case is_string($arg):
