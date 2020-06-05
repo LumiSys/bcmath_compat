@@ -1,5 +1,5 @@
 {
-    "name":         "phpseclib/bcmath_compat",
+    "name":         "lumisys/bcmath_compat",
     "description":  "PHP 5.x/7.x polyfill for bcmath extension",
     "keywords": [
             "bcmath",
